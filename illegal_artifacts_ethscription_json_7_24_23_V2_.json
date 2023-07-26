@@ -1,0 +1,321 @@
+{
+        "name": "Illegal Artifacts",
+        "description": "How Illegal are you? limited Genesis collection of 25 artifacts, and their 25 animated iterations which are airdropped to the initial collectors - First 1/1 collection to begin ethscribing",
+	"total_supply": "50",
+	"logo_image_uri": "esc://ethscriptions/0xab17185af59d6124233b86dabcbe948fd3ce51361bcd6aeaaeb34d1406d1f271/data",
+	"banner_image_uri": "esc://ethscriptions/0x621818296be22545271abffb47b056b4749f170a116a259be4760693c7ae56ba/data",
+	"background_color": "#ff0000",
+ 	"twitter_link": "@kingbigben0001",
+  	"website_link": "",
+ 	"discord_link": "",
+  	"collection_items": [
+           {
+        	 "ethscription_id": "0x621818296be22545271abffb47b056b4749f170a116a259be4760693c7ae56ba",
+   		 "name": "Illegal Artifact #0",
+     		 "description": "",
+     		 "external_url": "",
+     		 "background_color": "#c3ff00",
+     		 "item_index": 0,
+     		 "item_attributes": [
+     		   {
+  		        "value": "Glitched Artifact",
+  		        "trait_type": "Illegal Artifact"
+  		      }
+  		    ]
+   		 },
+		{
+     		 "ethscription_id": "0x032c62678cadeb8fc6b1128fa3075ba668b4656c4e1472366d330174dc50d6de",
+   		 "name": "Illegal Artifact #1",
+     		 "description": "",
+     		 "external_url": "",
+     		 "background_color": "#000000",
+     		 "item_index": 1,
+     		 "item_attributes": [
+     		   {
+  		        "value": "Stationary Artifact",
+  		        "trait_type": "Illegal Artifact"
+  		      }
+  		    ]
+   		 },
+		{
+     		 "ethscription_id": "0x38a097eaa2ba3666680424603574ff051fb969025aa75ab8294217a8c72b908c",
+   		 "name": "Illegal Artifact #2",
+     		 "description": "",
+     		 "external_url": "",
+     		 "background_color": "#000000",
+     		 "item_index": 2,
+     		 "item_attributes": [
+     		   {
+  		        "value": "Stationary Artifact",
+  		        "trait_type": "Illegal Artifact"
+  		      }
+  		    ]
+   		 },
+		{
+     		 "ethscription_id": "0x8e3422c2b5937477a8cfb6bda805f115d6a636cfd2c400360ef896fff02ac2f1",
+   		 "name": "Illegal Artifact #3",
+     		 "description": "",
+     		 "external_url": "",
+     		 "background_color": "#000000",
+     		 "item_index": 3,
+     		 "item_attributes": [
+     		   {
+  		        "value": "Stationary Artifact",
+  		        "trait_type": "Illegal Artifact"
+  		      }
+  		    ]
+   		 },
+		{
+     		 "ethscription_id": "0x875d3274d7171fe42d46987fa133c099c1cae032e43d02155e273fb6968a2c46",
+   		 "name": "Illegal Artifact #4",
+     		 "description": "",
+     		 "external_url": "",
+     		 "background_color": "#000000",
+     		 "item_index": 4,
+     		 "item_attributes": [
+     		   {
+  		        "value": "Stationary Artifact",
+  		        "trait_type": "Illegal Artifact"
+  		      }
+  		    ]
+   		 },
+		{
+     		 "ethscription_id": "0x9ab0918e101773be040a886fb43131e51a4b897f5ce389fec4fcaf0dc2474ac2",
+   		 "name": "Illegal Artifact #5",
+     		 "description": "",
+     		 "external_url": "",
+     		 "background_color": "#000000",
+     		 "item_index": 5,
+     		 "item_attributes": [
+     		   {
+  		        "value": "Stationary Artifact",
+  		        "trait_type": "Illegal Artifact"
+  		      }
+  		    ]
+   		 },
+		{
+     		 "ethscription_id": "0x5f3678f556fc009a2d14d5acb4c054753d4199b4b0faa345d374488f57048eff",
+   		 "name": "Illegal Artifact #6",
+     		 "description": "",
+     		 "external_url": "",
+     		 "background_color": "#000000",
+     		 "item_index": 6,
+     		 "item_attributes": [
+     		   {
+  		        "value": "Stationary Artifact",
+  		        "trait_type": "Illegal Artifact"
+  		      }
+  		    ]
+   		 },
+		{
+     		 "ethscription_id": "0xca921edddf6c5e25cb57c50374195dad5b2f4ee71f1dbebca89d58b383d6d70a",
+   		 "name": "Illegal Artifact #7",
+     		 "description": "",
+     		 "external_url": "",
+     		 "background_color": "#000000",
+     		 "item_index": 7,
+     		 "item_attributes": [
+     		   {
+  		        "value": "Stationary Artifact",
+  		        "trait_type": "Illegal Artifact"
+  		      }
+  		    ]
+   		 },
+		{
+     		 "ethscription_id": "0xf9bc5d56637de39b6f92b442c649f4b4e40729e277e69f0cce2529c5fdb64807",
+   		 "name": "Illegal Artifact #8",
+     		 "description": "",
+     		 "external_url": "",
+     		 "background_color": "#000000",
+     		 "item_index": 8,
+     		 "item_attributes": [
+     		   {
+  		        "value": "Stationary Artifact",
+  		        "trait_type": "Illegal Artifact"
+  		      }
+  		    ]
+   		 },
+		{
+     		 "ethscription_id": "0x1e8a0b13c4a64e9db88afdf28805caeb7d3e54fc093a496f6185fe19ce648f90",
+   		 "name": "Illegal Artifact #9",
+     		 "description": "",
+     		 "external_url": "",
+     		 "background_color": "#000000",
+     		 "item_index": 9,
+     		 "item_attributes": [
+     		   {
+  		        "value": "Stationary Artifact",
+  		        "trait_type": "Illegal Artifact"
+  		      }
+  		    ]
+   		 },
+		{
+     		 "ethscription_id": "0x2ace83f1f708e36c1395de6dbcb64d1b7d2a5aabc87abb5ba9bbb2ad2ba5f411",
+   		 "name": "Illegal Artifact #10",
+     		 "description": "",
+     		 "external_url": "",
+     		 "background_color": "#000000",
+     		 "item_index": 10,
+     		 "item_attributes": [
+     		   {
+  		        "value": "Stationary Artifact",
+  		        "trait_type": "Illegal Artifact"
+  		      }
+  		    ]
+   		 },
+		{
+     		 "ethscription_id": "0xb20543fef05ba29c17a735d074920c4e401a30e17882b452de1add956e7ba51e",
+   		 "name": "Illegal Artifact #11",
+     		 "description": "",
+     		 "external_url": "",
+     		 "background_color": "#000000",
+     		 "item_index": 11,
+     		 "item_attributes": [
+     		   {
+  		        "value": "Stationary Artifact",
+  		        "trait_type": "Illegal Artifact"
+  		      }
+  		    ]
+   		 },
+		{
+     		 "ethscription_id": "0x236fea5b92a7f6baba5672a23fc7b65c870eb292578dc8ccedbf1aec9641edc5",
+   		 "name": "Illegal Artifact #12",
+     		 "description": "",
+     		 "external_url": "",
+     		 "background_color": "#000000",
+     		 "item_index": 12,
+     		 "item_attributes": [
+     		   {
+  		        "value": "Stationary Artifact",
+  		        "trait_type": "Illegal Artifact"
+  		      }
+  		    ]
+   		 },
+		{
+     		 "ethscription_id": "0x788694093f615aa76de9a7d4d91ee0a93bb3527ef43bf5629f2ce95f609b18ff",
+   		 "name": "Illegal Artifact #13",
+     		 "description": "",
+     		 "external_url": "",
+     		 "background_color": "#000000",
+     		 "item_index": 13,
+     		 "item_attributes": [
+     		   {
+  		        "value": "Stationary Artifact",
+  		        "trait_type": "Illegal Artifact"
+  		      }
+  		    ]
+   		 },
+		{
+     		 "ethscription_id": "0xc40cce3ba75d3ce131238d3b27e995bd114d2ff6fd212b2cb9ed290985f081bd",
+   		 "name": "Illegal Artifact #14",
+     		 "description": "",
+     		 "external_url": "#000000",
+     		 "background_color": "",
+     		 "item_index": 14,
+     		 "item_attributes": [
+     		   {
+  		        "value": "Stationary Artifact",
+  		        "trait_type": "Illegal Artifact"
+  		      }
+  		    ]
+   		 },
+		{
+     		 "ethscription_id": "0x7a2e6a427b2da5c47823fc2227323dfb00e301a36e464e90ce38460cbdfa7380",
+   		 "name": "Illegal Artifact #15",
+     		 "description": "",
+     		 "external_url": "",
+     		 "background_color": "#000000",
+     		 "item_index": 15,
+     		 "item_attributes": [
+     		   {
+  		        "value": "Stationary Artifact",
+  		        "trait_type": "Illegal Artifact"
+  		      }
+  		    ]
+   		 },
+		{
+     		 "ethscription_id": "0xb157b8abd3c6f0644ad8b0070db0b399f83988427378aae6040e7753f0aa04b4",
+   		 "name": "Illegal Artifact #16",
+     		 "description": "",
+     		 "external_url": "",
+     		 "background_color": "#000000",
+     		 "item_index": 16,
+     		 "item_attributes": [
+     		   {
+  		        "value": "Stationary Artifact",
+  		        "trait_type": "Illegal Artifact"
+  		      }
+  		    ]
+   		 },
+		{
+     		 "ethscription_id": "0xab17185af59d6124233b86dabcbe948fd3ce51361bcd6aeaaeb34d1406d1f271",
+   		 "name": "Illegal Artifact #17",
+     		 "description": "",
+     		 "external_url": "",
+     		 "background_color": "#000000",
+     		 "item_index": 17,
+     		 "item_attributes": [
+     		   {
+  		        "value": "Stationary Artifact",
+  		        "trait_type": "Illegal Artifact"
+  		      }
+  		    ]
+   		 },
+		{
+     		 "ethscription_id": "0x8151dcf5cd77b4673f4604cf5d03257a34e953b365fa2af38a244cf9156155f1",
+   		 "name": "Illegal Artifact #18",
+     		 "description": "",
+     		 "external_url": "",
+     		 "background_color": "#000000",
+     		 "item_index": 18,
+     		 "item_attributes": [
+     		   {
+  		        "value": "Stationary Artifact",
+  		        "trait_type": "Illegal Artifact"
+  		      }
+  		    ]
+   		 },
+		{
+     		 "ethscription_id": "0x91f0117c3ddc221b94a6f39bdf625f7f0c4572bc12170efa9c71960c714be6eb",
+   		 "name": "Illegal Artifact #19",
+     		 "description": "",
+     		 "external_url": "",
+     		 "background_color": "#000000",
+     		 "item_index": 19,
+     		 "item_attributes": [
+     		   {
+  		        "value": "Stationary Artifact",
+  		        "trait_type": "Illegal Artifact"
+  		      }
+  		    ]
+   		 },
+		{
+     		 "ethscription_id": "0x8d9097b99b649e7ed23f547561cda0ce1c6db9f168c6bf99b060506698dc8395",
+   		 "name": "Illegal Artifact #26",
+     		 "description": "",
+     		 "external_url": "",
+     		 "background_color": "#c3ff00",
+     		 "item_index": 26,
+     		 "item_attributes": [
+     		   {
+  		        "value": "Illegal Artifact",
+  		        "trait_type": "Glitched Artifact"
+  		      }
+  		    ]
+   		 },
+		{
+     		 "ethscription_id": "0x2c27cd16d287392e562d863bd7ce573e35f3c70d86043318d6db44c7e11e9556",
+   		 "name": "Illegal Artifact #27",
+     		 "description": "",
+     		 "external_url": "",
+     		 "background_color": "c3ff00",
+     		 "item_index": 26,
+     		 "item_attributes": [
+     		   {
+  		        "value": "Illegal Artifact",
+  		        "trait_type": "Glitched Artifact"
+  		      }
+  		    ]
+   		 }
+  ]
+}
